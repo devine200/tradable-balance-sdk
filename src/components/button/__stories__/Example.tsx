@@ -1,4 +1,4 @@
-import React, { FC } from "react";
+import { FC } from "react";
 import TradableButton, { ButtonProps } from "../button";
 
 const Example: FC<ButtonProps> = ({
